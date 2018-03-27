@@ -1,5 +1,5 @@
 Desarrollo de carrito de compras con proposito de Aprendizaje
 Utilizando :
-Nodejs
+Nodejs,
 express con Handlebars.js
-Mysql
+y Mysql
